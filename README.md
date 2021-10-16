@@ -1,6 +1,5 @@
 # Pheakdey-s-CV
 CV
-<!DOCTYPE html>
 <html>
 
 <head>
